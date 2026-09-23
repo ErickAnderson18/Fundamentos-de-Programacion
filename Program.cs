@@ -1,4 +1,5 @@
-﻿//función de Imprimir notas
+//Ejercicios de arreglos y funciones en C#
+//función de Imprimir notas
 static void ImprimirNotas(int[] notas)
 {
     for(int i=0; i<notas.Length; i++)
